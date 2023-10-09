@@ -46,6 +46,7 @@ This way, it will be much easier to visualize the data and identify the factors 
 
 
 
+![Alt text](image-1.png)
 
 
-
+![Alt text](image-2.png)
