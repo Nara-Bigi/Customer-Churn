@@ -44,9 +44,24 @@ This way, it will be much easier to visualize the data and identify the factors 
 
 # Analyzing the graphs
 
-
+Let's analyze the graph of "Days of Delay" and "Calls to the Call Center.
 
 ![Alt text](image-1.png)
 
+In this graph, it's evident that customers with more than 20 days of delay tend to cancel their subscriptions.
 
-![Alt text](image-2.png)
+
+![Alt text](image-3.png)
+
+In this other graph, it's noticeable that customers with more than 5 calls to the call center tend to cancel their subscriptions.
+
+
+# Conclusion
+
+ We started the problem with a cancellation rate of 56.7%. After the initial data treatment, we managed to reduce it to 46.1%. 
+ 
+ Finally, with the help of graphs, we fine-tuned our database and achieved a cancellation rate of 18.4%.
+ 
+Can you see how each part of our analysis is crucial to reach the desired result? In this company, going from 56% cancellations to 18% would indeed be a significant improvement. 
+
+By conducting these analyses and treatments, we can pinpoint the issues and propose solutions to minimize cancellations for the company.
