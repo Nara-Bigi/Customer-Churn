@@ -12,6 +12,8 @@ In order to improve its results, the company wants to understand the primary rea
 
 Before starting the analysis, it is essential that you perform data preprocessing. This helps avoid errors due to unnecessary or even missing data. Therefore, we will use the 'table.dropna' command to remove empty information from our table.
 
+![Alt text](<Removing empty values-1.png>)
+
 # Analyzing Data with Python
 
 Here, we will use "groupby" to group the information based on the "contract_duration" column and then calculate the average of the data in the table. This will provide us with a more general overview of each of these plans, and we can check if there is any important information.
