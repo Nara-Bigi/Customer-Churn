@@ -18,6 +18,9 @@ Before starting the analysis, it is essential that you perform data preprocessin
 
 Here, we will use "groupby" to group the information based on the "contract_duration" column and then calculate the average of the data in the table. This will provide us with a more general overview of each of these plans, and we can check if there is any important information.
 
+
+![Alt text](<group by.png>)
+
 With the grouped information, it's noticeable that customers on the Monthly plan have an average cancellation rate of 1, which means that nearly all customers using this plan canceled the service. This is already an important point within our analysis because there is a plan within this company where almost all customers cancel the service.
 
 
