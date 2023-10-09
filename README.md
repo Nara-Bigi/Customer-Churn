@@ -42,7 +42,7 @@ Since the last analysis didn't provide clear insights on which information could
 
 This way, it will be much easier to visualize the data and identify the factors that are actually contributing to the increase in cancellations in this company.
 
-# Analyze the graphs
+# Analyzing the graphs
 
 
 
